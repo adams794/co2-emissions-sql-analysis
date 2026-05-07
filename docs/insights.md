@@ -26,3 +26,31 @@ Carbon dioxide (CO₂) emissions have increased significantly since the Industri
 
 ---
 
+# 🌍 Share of Global CO₂ Emissions
+
+While global CO₂ emissions increased over time, the relative contribution of each continent changed significantly throughout the industrial era. This chart highlights how the geographic distribution of emissions evolved between 1750 and 2024.
+
+![Share of global CO2 emissions](/visuals/co2_emissions_share_continents.png)
+
+👉 [View interactive chart ↗](TU_WSTAW_LINK)
+
+---
+
+## 📈 Key Insights
+
+- **Europe dominated global emissions during the early industrial era**  
+  From the late 18th century through much of the 19th century, Europe accounted for the overwhelming majority of global CO₂ emissions, reflecting its central role in early industrialization.
+
+- **North America emerged as the leading contributor in the 20th century**  
+  During the first half of the 20th century, North America's share increased rapidly as industrial production and energy consumption expanded significantly.
+
+- **Asia experienced the strongest long-term growth**  
+  Beginning in the mid-20th century, Asia’s share of global emissions increased steadily, eventually surpassing both Europe and North America.
+
+- **1974 marked a major transition point in global emission shares**  
+  Around 1974, Asia, Europe, and North America reached similar shares of global CO₂ emissions, representing a major shift in the global distribution of industrial and economic activity.
+
+- **Africa, South America, and Oceania remained comparatively smaller contributors**  
+  Although emissions increased over time, their relative contribution to global emissions remained significantly lower than the major industrial regions.
+
+---
