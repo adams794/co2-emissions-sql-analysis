@@ -82,3 +82,11 @@ Total emissions alone do not fully reflect the environmental impact of different
   Across the entire timeline, Africa consistently recorded the lowest CO₂ emissions per person despite population growth and increasing industrial activity.
 
 ---
+
+# 📌 Final Thoughts
+
+This analysis highlights how the global distribution of CO₂ emissions has evolved over time alongside industrialization, economic growth, and population changes.
+
+While Asia currently dominates global emissions in absolute terms, the historical data shows that Europe and North America were the primary contributors throughout earlier stages of industrial development. Per capita analysis also reveals that regions such as North America and Oceania maintained substantially higher emissions per person for decades.
+
+Together, these perspectives demonstrate that global emissions cannot be fully understood through a single metric alone. Total emissions, relative contribution, and per capita values each provide different insights into the complexity of global carbon emissions and their historical development.
