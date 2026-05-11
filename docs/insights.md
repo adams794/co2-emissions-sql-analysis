@@ -54,3 +54,31 @@ While global CO₂ emissions increased over time, the relative contribution of e
   Although emissions increased over time, their relative contribution to global emissions remained significantly lower than the major industrial regions.
 
 ---
+# 🌍 CO₂ Emissions per Capita
+
+Total emissions alone do not fully reflect the environmental impact of different regions. By adjusting emissions relative to population size, per capita emissions provide additional insight into how carbon-intensive economies and lifestyles are across continents.
+
+![CO2 emissions per capita](/visuals/co2_emissions_per_capita_continents.png)
+
+👉 [View interactive chart ↗](TU_WSTAW_LINK)
+
+---
+
+## 📈 Key Insights
+
+- **North America maintained the highest emissions per capita for most of the observed period**  
+  Throughout much of the 20th century, North America recorded significantly higher emissions per person than other regions, reflecting high industrial output, energy consumption, and dependence on fossil fuels.
+
+- **Oceania reached unexpectedly high per capita emission levels**  
+  Despite contributing a relatively small share of total global emissions, Oceania exhibited some of the highest per capita emission levels, particularly from the late 20th century onward.
+
+- **Europe peaked in the late 20th century before gradually declining**  
+  Europe experienced strong growth in emissions per capita during industrial expansion, followed by a long-term decline beginning around the 1980s.
+
+- **Asia showed sustained long-term growth in per capita emissions**  
+  Although Asia dominates global emissions in absolute terms, its per capita emissions remained considerably lower than North America for most of the observed period.
+
+- **Africa remained the lowest-emitting region per capita**  
+  Across the entire timeline, Africa consistently recorded the lowest CO₂ emissions per person despite population growth and increasing industrial activity.
+
+---
