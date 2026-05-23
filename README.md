@@ -72,10 +72,12 @@ This project demonstrates practical SQL and data analysis skills, including:
 - creating raw and analytics database layers
 - importing CSV data into SQL Server using `BULK INSERT`
 - building stored procedures for repeatable data loading
+- performing data quality checks and source data validation
 - creating analytical views
 - standardizing reference data
 - joining multiple datasets into an enriched analytical model
 - creating derived columns for analysis
+- writing analytical SQL queries for trend analysis and visualization outputs
 - preparing datasets for reporting and visualization
 - documenting data architecture and analytical outputs
 
@@ -100,15 +102,18 @@ co2-emissions-sql-analysis/
 │   ├── architecture.md                            # Data flow description, layer design, and data catalog
 │   └── insights.md                                # Analytical findings and Flourish visualizations
 │
-├── scripts/                                       # SQL scripts used to build and run the project
+├── scripts/                                       # SQL scripts used to build, validate, and analyze the project
 │   ├── raw_layer/                                 # Scripts for database setup, raw tables, and data loading
 │   │   ├── init_database.sql                      # Creates the database and required schemas
 │   │   ├── ddl_raw_layer.sql                      # Creates raw layer tables
 │   │   └── proc_load_raw_layer.sql                # Loads CSV files into raw tables using BULK INSERT
 │   │
-│   └── analytics_layer/                           # SQL views used for analytical transformations
-│       ├── country_codes_standardized.sql         # Standardizes country and continent mappings
-│       └── co2_emissions_enriched.sql             # Combines emissions, population, and land-use data
+│   ├── analytics_layer/                           # SQL views used for analytical transformations
+│   │   ├── country_codes_standardized.sql         # Standardizes country and continent mappings
+│   │   └── co2_emissions_enriched.sql             # Combines emissions, population, and land-use data
+│   │
+│   ├── quality_checks.sql                         # Validates raw data quality and identifies mapping issues
+│   └── analysis_queries.sql                       # Analytical queries used to create datasets for Flourish
 │
 ├── visuals/                                       # Exported chart images used in documentation
 │   ├── co2_emissions_continents.png               # Total CO₂ emissions by continent over time
